@@ -9,8 +9,11 @@ When looking at the results a few things standout:
 ![Module_7_Deliverable 2](Images/Module_7_Deliverable 2.png)
 
 -We can see that over ~57k senior-level employees are eligible for retiring (e.g., Senior Engineers and Senior Staff)
+
 -Only 30% of the staff will be left over after the 'silver tsunami' (e.g., Staff / Total Staff including Senior)
+
 -When we look at the count of mentors available, we can see that only 414 Senior Staff are eligible
+
 -Only 313 Senior Engineers are eligible for mentorship
 
 ## Additional Tables or Details
