@@ -4,6 +4,12 @@ The purpose of this analysis was to utilize SQL and data modeling techniques in 
 
 ## Results
 When looking at the results a few things standout:
-![Senior Staff Retiring](Images/Module_7_Deliverable 1.png)
+![Data OutPut](Images/Module_7_Deliverable 1.png)
+
+
 -We can see that over ~57k senior-level employees are eligible for retiring (e.g., Senior Engineers and Senior Staff)
 -Only 30% of the staff will be left over after the 'silver tsunami' (e.g., Staff / Total Staff including Senior)
+-When we look at the count of mentors available, we can see that only 414 Senior Staff are eligible
+-Only 313 Senior Engineers are eligible for mentorship
+
+## Additional Tables or Details
