@@ -4,7 +4,7 @@ The purpose of this analysis was to utilize SQL and data modeling techniques in 
 
 ## Results
 When looking at the results a few things standout:
-![Data OutPut](Images/Module_7_Deliverable 1.png)
+![Module_7_Deliverable_1](Images/Module_7_Deliverable 1.png)
 
 
 -We can see that over ~57k senior-level employees are eligible for retiring (e.g., Senior Engineers and Senior Staff)
@@ -13,3 +13,4 @@ When looking at the results a few things standout:
 -Only 313 Senior Engineers are eligible for mentorship
 
 ## Additional Tables or Details
+![Mentorship_Query](Images/Mentorship_query.png)
